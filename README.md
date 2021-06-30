@@ -1,2 +1,2 @@
 # ShapeAI
-Final Project for Data Analyst
+Final Project for Data Analyst on Loan Eligibility Prediction
